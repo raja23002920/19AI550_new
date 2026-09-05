@@ -1,5 +1,5 @@
 # Ex.No: 10  Implementation of 2D space shooter game
-### DATE : 11/11/2025                                                                           
+### DATE : 09/05/2025                                                                           
 ### REGISTER NUMBER : 212223240134
 ### AIM: 
 To develop a 2D space shooter game in Unity where the rocket moves only up and down, and enemies spawn independently.
